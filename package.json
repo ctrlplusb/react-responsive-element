@@ -1,0 +1,24 @@
+{
+  "name": "react-responsive-element",
+  "version": "1.0.0",
+  "description": "A responsive element component for React web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctrlplusb/react-responsive-element.git"
+  },
+  "keywords": [
+    "react",
+    "responsive",
+    "component"
+  ],
+  "author": "Sean Matheson <sean@ctrlplusb.com> (http://ctrlplusb.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ctrlplusb/react-responsive-element/issues"
+  },
+  "homepage": "https://github.com/ctrlplusb/react-responsive-element#readme"
+}
